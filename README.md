@@ -1,7 +1,7 @@
 <h1>Visión por ordenador gr2</h1>
 <h3>Equipo compuesto por Henry y Javi</h3>
 
-![Henryyyo2](https://user-images.githubusercontent.com/109460138/217235091-44576588-e173-4abc-ad6e-3d4712db9fc4.png)
+![Henrylastjjavi](https://user-images.githubusercontent.com/109460138/217483306-ac1a1a89-9114-4582-a6da-a3a6f6249bcb.png)
 
 <p>Proyecto de reconocimiento facial por computadora para identificar a los trabajadores de una empresa para que puedan acceder a una fiesta que organiza la misma</p>
 
